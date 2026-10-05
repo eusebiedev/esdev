@@ -1,4 +1,4 @@
-# esdev
+# esdev Work in Progress!
 
 Personal developer portfolio for EusebieDev: a front-end engineer (React, Next.js, TypeScript)
 moving full stack.
