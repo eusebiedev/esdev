@@ -16,3 +16,7 @@ index.html   the page: hero, work index, stack inventory, contact
 style.css    all styles
 fonts/       self-hosted woff2 fonts (Archivo Black, JetBrains Mono, Playfair Display; SIL OFL)
 ```
+
+## License
+
+All rights reserved. See [LICENSE](LICENSE).
