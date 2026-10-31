@@ -1,5 +1,7 @@
 # EusebieDev Portfolio
 
+[Visit euseb.dev](https://euseb.dev/)
+
 ![EUSEB.DEV portfolio assembly drawing](assets/images/euseb-portfolio-blueprint.png)
 
 A developer portfolio built around semantic HTML, CSS, accessible interfaces, and selected full-stack work.
@@ -8,19 +10,8 @@ Static site in vanilla HTML and CSS. No framework, no build step, no JavaScript.
 
 No analytics, trackers, or third-party requests.
 
-**Status:** Some content and project links are still placeholders while the related work is in active development. The contact form is a disabled scaffold; LinkedIn is the current contact route.
-
-## Local preview
-
-No install step. From the repository root:
-
-```sh
-python3 -m http.server 8000 --bind 0.0.0.0
-```
-
-Open [http://localhost:8000](http://localhost:8000).
-
-Serve over HTTP rather than opening `index.html` with `file://` so asset paths and self-hosted fonts behave like production. Stop the server with `Ctrl+C` when finished.
+Hosted on Cloudflare. Some project links are coming soon.
+The contact form is not yet enabled; current contact options are listed on the site.
 
 ## Files
 
